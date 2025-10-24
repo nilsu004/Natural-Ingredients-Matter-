@@ -1,7 +1,7 @@
 # Natural-Ingredients-Matter-
 Hi, I’m Nilsu Saraçlar. This project is for the DSA 210 course and explores whether cosmetic products with natural ingredients get higher user ratings. 
 ### **Motivation** 
-Nowadays, with the rising trend of “good ingredients”,  people are looking for products that are natural and clean. But does this apply to cosmetics too, or are we still influenced by social media collaborations and advertisements? In this project, I want to explore whether cosmetic products with natural ingredients actually get higher user ratings, or if other factors like marketing and brand popularity play a bigger role.
+Nowadays, with the rising trend of “good ingredients”,  people are looking for products that are natural and clean. But does this apply to cosmetics too, or are we still influenced by social media collaborations and advertisements? In this project, I want to explore whether skincare products with natural and clean ingredients actually get higher user ratings, or if other factors like marketing and brand popularity play a bigger role.
 
 ### Research Question
 Do cosmetic products with natural ingredients get higher user ratings than products without natural ingredients?
@@ -10,9 +10,7 @@ Do cosmetic products with natural ingredients get higher user ratings than produ
 
 **H₁** : Products with natural ingredients have higher user ratings than products without natural ingredients.
 ### Data Collection
-I will gather information from publicly available cosmetics datasets. This datasets contains details about products, including their names, brands, prices, user ratings, and ingredients. I will use this information to analyze whether natural ingredients have an impact on product ratings.
-
-To determine which products are natural, I will examine the ingredient lists and create a new variable called" is_natural". This variable will identify products containing keywords like “aloe vera,” “coconut oil,” “argan,” or “olive.”
+I will gather information from publicly available cosmetics datasets from Kaggle. This dataset that I found contains details about products brand, name, price, number of reviews, number of loves, review score, size, clean product status, and category. I will use this information to analyze whether natural ingredients have an impact on product ratings.
 
 After preparing the data, it will be ready for  data analysis, hypothesis testing, and visualization. This approach will allow me to compare natural and not natural products in a meaningful way and come up with a conclusions about their user ratings.
 
