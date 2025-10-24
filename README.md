@@ -1,4 +1,4 @@
-# Natural-Ingredients-Matter-
+# Does Natural Ingredients Matter?
 Hi, I’m Nilsu Saraçlar. This project is for the DSA 210 course and explores whether cosmetic products with natural ingredients get higher user ratings. 
 ### **Motivation** 
 Nowadays, with the rising trend of “good ingredients”,  people are looking for products that are natural and clean. But does this apply to cosmetics too, or are we still influenced by social media collaborations and advertisements? In this project, I want to explore whether skincare products with natural and clean ingredients actually get higher user ratings, or if other factors like marketing and brand popularity play a bigger role.
