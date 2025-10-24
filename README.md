@@ -7,6 +7,7 @@ Nowadays, with the rising trend of “good ingredients”,  people are looking f
 Do cosmetic products with natural ingredients get higher user ratings than products without natural ingredients?
 ### Hypotheses
 **H₀** : There is no significant difference in user ratings between products with natural ingredients and those without.
+
 **H₁** : Products with natural ingredients have higher user ratings than products without natural ingredients.
 ### Data Collection
 I will gather information from publicly available cosmetics datasets. This datasets contains details about products, including their names, brands, prices, user ratings, and ingredients. I will use this information to analyze whether natural ingredients have an impact on product ratings.
