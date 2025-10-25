@@ -10,7 +10,7 @@ Do cosmetic products with natural ingredients get higher user ratings than produ
 
 **H₁** : Products with natural ingredients have higher user ratings than products without natural ingredients.
 ### Data Collection
-I will gather information from publicly available cosmetics datasets from Kaggle. This dataset that I found contains details about products brand, name, price, number of reviews, number of loves, review score, size, clean product status, and category. I will use this information to analyze whether natural ingredients have an impact on product ratings.
+I will gather information from publicly available cosmetics datasets from Kaggle. This dataset that I found (skincare_df.csv) contains details about products brand, name, price, number of reviews, number of loves, review score, size, clean product status, and category. I will use this information to analyze whether natural ingredients have an impact on product ratings.
 
 After preparing the data, it will be ready for  data analysis, hypothesis testing, and visualization. This approach will allow me to compare natural and not natural products in a meaningful way and come up with a conclusions about their user ratings.
 
