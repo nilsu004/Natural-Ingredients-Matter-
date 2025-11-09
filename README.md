@@ -1,19 +1,22 @@
-# Does Natural Ingredients Matter?
-Hi, I’m Nilsu Saraçlar. This project is for the DSA 210 course and explores whether cosmetic products with natural ingredients get higher user ratings. 
-### **Motivation** 
-Nowadays, with the rising trend of “good ingredients”,  people are looking for products that are natural and clean. But does this apply to cosmetics too, or are we still influenced by social media collaborations and advertisements? In this project, I want to explore whether skincare products with natural and clean ingredients actually get higher user ratings, or if other factors like marketing and brand popularity play a bigger role.
+# Turkish vs Indian Movies Over Time
 
-### Research Question
-Do cosmetic products with natural ingredients get higher user ratings than products without natural ingredients?
-### Hypotheses
-**H₀** : There is no significant difference in user ratings between products with natural ingredients and those without.
+## Project Overview
+This project investigates how Turkish and Indian movies have been rated on IMDb over the years. The goal is to understand whether the ratings of Turkish movies have increased over time and how they compare to Indian movies.
 
-**H₁** : Products with natural ingredients have higher user ratings than products without natural ingredients.
-### Data Collection
-I will gather information from publicly available cosmetics datasets from Kaggle. This dataset that I found (skincare_df.csv) contains details about products brand, name, price, number of reviews, number of loves, review score, size, clean product status, and category. I will use this information to analyze whether natural ingredients have an impact on product ratings.
+## Motivation
+Turkey and India are two countries with rich and vibrant cultures. Culture influences many aspects of life, including movies. Since the 1920s, films from both countries have been a way to share their culture with the world.
+In this project, I wanted to examine how Turkish movies have developed over time. I also thought it would be interesting to compare them with Indian movies because movies from each country are popular in the other — for example, Turkish audiences enjoy Indian films, and Indian audiences watch Turkish movies and series.
+By comparing Turkish and Indian movies, I can study how ratings have changed over time and how audience preferences differ between the two countries. The main focus is on analyzing the development of Turkish cinema, but including Indian movies makes the project more interesting and informative.
 
-After preparing the data, it will be ready for  data analysis, hypothesis testing, and visualization. This approach will allow me to compare natural and not natural products in a meaningful way and come up with a conclusions about their user ratings.
+## Data Source
+I collected the data source from Kaggle. I have 2 data sets: First one is showing Turkish movie ratings, genres ,runtime of the movie and the year. The other one is showhing Indian movies ratings, genres ,runtime of the movie and the year. 
 
-### Expected Outcome
-If the is_natural variable is positively associated with higher ratings (p < 0.05), the study will suggest that natural ingredients contribute to consumer satisfaction.
-Otherwise, it may indicate that factors such as price or brand reputation are stronger predictors.
+
+
+## Limitations and Future Work
+- The dataset may not include all movies from both countries.  
+- Ratings may be biased by the number of voters or popularity.  
+- Future work: include box office performance, awards, or social media metrics.  
+- Explore genre-specific trends for more detailed analysis.
+
+
