@@ -8,6 +8,16 @@ Turkey and India are two countries with rich and vibrant cultures. Culture influ
 In this project, I wanted to examine how Turkish movies have developed over time. I also thought it would be interesting to compare them with Indian movies because movies from each country are popular in the other — for example, Turkish audiences enjoy Indian films, and Indian audiences watch Turkish movies and series.
 By comparing Turkish and Indian movies, I can study how ratings have changed over time and how audience preferences differ between the two countries. The main focus is on analyzing the development of Turkish cinema, but including Indian movies makes the project more interesting and informative.
 
+## Hypotheses
+
+**H₁ – Trend in Turkish Movies**  
+Null hypothesis (H₀): There is no significant change in Turkish movie ratings over time.  
+Alternative hypothesis (H₁): Turkish movie ratings increase over time.
+
+**H₂ – Country Comparison**  
+Null hypothesis (H₀): There is no difference between Turkish and Indian movie ratings.  
+Alternative hypothesis (H₁): Turkish and Indian movie ratings are significantly different.
+
 ## Data Collecting
 I collected the data from Kaggle. I used two datasets: one containing information about Turkish movies, including ratings, genres, runtime, and release year; and another containing the same information for Indian movies. Both datasets will be filtered and cleaned to remove missing values, ensuring accurate analysis.
 
